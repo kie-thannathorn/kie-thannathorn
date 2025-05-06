@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @kie-thannathorn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Kie Thannathorn
+- 🌱 I’m currently learning -> everything about software development
+- 📫 How to reach me -> slack and gather
+- ⚡ Fun fact: 
+    - Manchester is Blue 🩵
+    - Beer all time 🍺
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phantomzmc&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phantomzmc&theme=gotham" alt="GitHub Streak" />
+</div>
 
 <!---
 kie-thannathorn/kie-thannathorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

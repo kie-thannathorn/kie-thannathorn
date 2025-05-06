@@ -8,8 +8,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phantomzmc&show_icons=true&theme=gotham" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phantomzmc&theme=gotham" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kie-thannathorn&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kie-thannathorn&theme=gotham" alt="GitHub Streak" />
 </div>
 
 <!---
